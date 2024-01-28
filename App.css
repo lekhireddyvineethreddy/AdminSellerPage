@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+.seller-admin {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.product-list {
+  margin-top: 20px;
+}
+
+.product-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.product-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.product-form {
+  margin-top: 20px;
+}
+
+.product-form div {
+  margin-bottom: 10px;
+}
+
+.product-form input {
+  margin-left: 10px;
+}
+
+.product-form button {
+  margin-top: 10px;
+}
